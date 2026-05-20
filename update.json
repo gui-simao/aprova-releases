@@ -1,10 +1,10 @@
 {
   "version": "2.1.1",
-  "notes": "Nova versão (2.1.1) para teste do auto-updater em tempo real.",
+  "notes": "Nova versão (2.1.1) - Teste do auto-updater silencioso sem UAC.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUd2blJsOUltdWtjK2hlaEwxMkJHT0ZDRXlVSURHa1FpY1YvVUo2eis0dnVDZm1jWDJEZnM1b2JoZHRHbjN0bFROUHdQT3R6TkFkVTVzRUVWa1Fid2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzEyOTY2CWZpbGU6QXByb3ZhXzIuMS4xX3g2NF9lbi1VUy5tc2kKZDgreW9qaVhGRnFlbWs2UUZwYlB1dkwrTVRzV20vOU1rUDIwc2I3aHRTR3B1b1NQTjA4R0VyMlU5eCtSYXVSdE1hSllacjhZQjZaUEZrVno0clVTQXc9PQo=",
-      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.1/Aprova_2.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRZ0FGczl2Y0FCVU4wU0JoRDY3d1ZlSi8zUjJuQWNPVndCaFd1T1M2RFpieW00cnMvbitZNnRWTzZFRE13UGJyUGNiOGlMN2xWOWgvVHJ5MEFxMjRLV0VySEt3bWVXcndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzE0NDc0CWZpbGU6QXByb3ZhXzIuMS4xX3g2NC1zZXR1cC5leGUKNUY3OE9SVVRIVzBBL1dJTHR1QVI4Y0g5QXVyYnV4eVhjMzkvR1J6alUvbm9Cd2RlM0VtNm5jNThManVsQlRBeXE4azBYMlVEZFFGQ3pFNnA3dnhCRHc9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.1/Aprova_2.1.1_x64-setup.exe"
     }
   }
 }

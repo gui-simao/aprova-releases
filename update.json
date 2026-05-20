@@ -1,0 +1,10 @@
+{
+  "version": "2.1.0",
+  "notes": "Lançamento inicial do Aprova com Auto-Updater integrado e filtros financeiros blindados.",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUk2Tml2VnZPNU13YVF0V3NvUHR5ckRtUUxMalZtYkdQUUM1dXR4MUx4NnJET3ZJd0lybXYwa2UrYVgyZmV2MmRNemQ2amxiNldVMm9hRnJLK1ZFNHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzExMjgzCWZpbGU6QXByb3ZhXzIuMS4wX3g2NF9lbi1VUy5tc2kKRU83dFh2OVdORjJ6bVNRZnVmcmpwL3NIdkJVZ2x4T1FNZG9kUnZHcDQ3ZHAzcUs5cktuQ3o0a28zTXFaUHM2Mm5sbTRsVER3YjNnZ3VmcmpqSE1TRGc9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.0/Aprova_2.1.0_x64_en-US.msi"
+    }
+  }
+}

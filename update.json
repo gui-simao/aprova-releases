@@ -1,10 +1,10 @@
 {
-  "version": "2.1.3",
-  "notes": "Nova versão 2.1.3 - Melhoria na animação de evaporação de versão na barra lateral e changelog dinâmico.",
+  "version": "2.1.4",
+  "notes": "Nova versão 2.1.4 - Correção da transição dinâmica de versões na interface e número de versão do popup.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVVBzQ1FDYzl1TzUrRDU0NE5oVjhMYktkVVlmaDNaaWwrbWtyRFJ4dlpJY3QvSjB0ZWs1WkJjczR6cjBFb2tZc3MzM0VKd3hYQnV2aFI2Q2ZLRk1Ja2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU5NDk0CWZpbGU6QXByb3ZhXzIuMS4zX3g2NC1zZXR1cC5leGUKVTI4U2NLRE1iek5OTnR5ZUpRWG5SaENGaXlJWDJHR044S3NCSXFqTFlrS0l4d2pBcUxDWGl1U1hjVjVoQk5iQVNMTTIrcDdBaWkrT0lIdGh6WUpGQ2c9PQo=",
-      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.3/Aprova_2.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUNzaGZRZTk4NlhocXUvTVp6MFlJSFdhQXErRzdkVkdUeEkvcEdjTjUvbFk3WDJ2ZmVsRm8xTDJqNjAvMjdaZCtzMUUvZU5xMzhkRVF5aTNFZm1KVVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDYwNDI5CWZpbGU6QXByb3ZhXzIuMS40X3g2NC1zZXR1cC5leGUKOFluejVIOFd6NFQ4aVYwaGFHbFhZRjVrNHBSYVV2VU9pUTlqUy91b0tEcEt5c05OMnlaNmlEMXRmVzYxbGJIbWExUWVqNDJxV1lsTWQvL3hPR3VnQUE9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.4/Aprova_2.1.4_x64-setup.exe"
     }
   }
 }

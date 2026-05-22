@@ -1,10 +1,10 @@
 {
-  "version": "2.1.4",
-  "notes": "Nova versão 2.1.4 - Correção da transição dinâmica de versões na interface e número de versão do popup.",
+  "version": "2.1.5",
+  "notes": "Nova versão 2.1.5 - Correção do fluxo de atualização e mitigação de cache local sujo para downgrade-testing.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUNzaGZRZTk4NlhocXUvTVp6MFlJSFdhQXErRzdkVkdUeEkvcEdjTjUvbFk3WDJ2ZmVsRm8xTDJqNjAvMjdaZCtzMUUvZU5xMzhkRVF5aTNFZm1KVVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDYwNDI5CWZpbGU6QXByb3ZhXzIuMS40X3g2NC1zZXR1cC5leGUKOFluejVIOFd6NFQ4aVYwaGFHbFhZRjVrNHBSYVV2VU9pUTlqUy91b0tEcEt5c05OMnlaNmlEMXRmVzYxbGJIbWExUWVqNDJxV1lsTWQvL3hPR3VnQUE9PQo=",
-      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.4/Aprova_2.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUZmeW9VQlJBMm9JMGRyaUkweHdkdlpRaDVKanJiNVZDYUx5UWZIaityaEVOWlpxNTlHZkQwRnZZeFp1bEJFbFcyRlpleGFDb1hpdjFhUHYzaFR0UWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDkxMzcwCWZpbGU6QXByb3ZhXzIuMS41X3g2NC1zZXR1cC5leGUKcVNvam5rejA0bTBkTUdKa3lNOEpWUGhhWkhINkpPVHRUSTlqc0NhVTZsTUdnWXYwdGV5aWFXSEErdzdaaWJtQ283SlB5dTJFZmF5cjVydWo3T1diQ0E9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.5/Aprova_2.1.5_x64-setup.exe"
     }
   }
 }

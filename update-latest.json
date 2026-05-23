@@ -1,9 +1,9 @@
 {
   "version": "2.1.6",
-  "notes": "Nova versão 2.1.6 - Lançamento Inicial com arquitetura de canais de atualizações dinâmicos (Estável e Latest).",
+  "notes": "Nova versão 2.1.6 - Lançamento estável com nova UI clara, configurações e controle de updates.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVVBOKzl0TDVFbVgxQ0c5T1BrcWJpZlpUTi9DUEpwZzZTWXdFMTFGNkwyTG9rNmt1ODcyaWlGV1VnTUlHeUQ5MTJBWUw0anpMOGtFZS9DS3JMSG8yUndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDk0MDMwCWZpbGU6QXByb3ZhXzIuMS42X3g2NC1zZXR1cC5leGUKMnRWUG5ndWhRQkZrYURYVzdHSG9CaThLZEE1RkJtVVU4YTNnVWxpczZ1Sm5lblVqZVJQQjRUQnpOY21LMzArbzNlN0xnN2l2aG1kcEFGdWl6bGZMRHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUcveDB5Q0tOU0lHWnZYSk90ckkrTHlGK09vcHh3MUJjL0FlcVRtWVJhTnEzMW1VZjVKV0xKTUpleVJXd24rZEp1TEUrbVhUTVRvdHlLamZwSDFKdkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTAwOTIzCWZpbGU6QXByb3ZhXzIuMS42X3g2NC1zZXR1cC5leGUKd2I1eEZ5bGVQTlNVckdFdE9jN3lZZERRQllOK3lMelpaOGQwM2JHWkQ1OUtqRzlKaVNiZytLTGlNMHpXbFozT0x6Z3NQN0szaUQ1bkpxRjlhNjRmQWc9PQo=",
       "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.6/Aprova_2.1.6_x64-setup.exe"
     }
   }

@@ -1,10 +1,10 @@
 {
-  "version": "2.1.6",
-  "notes": "Nova versão 2.1.6 - Lançamento estável com nova UI clara, configurações e controle de updates.",
+  "version": "2.1.7",
+  "notes": "Nova versão 2.1.7 (Canal Latest) - Otimizações profundas de inicialização do app e suporte total a configurações de comissão, corretor e status customizáveis.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUcveDB5Q0tOU0lHWnZYSk90ckkrTHlGK09vcHh3MUJjL0FlcVRtWVJhTnEzMW1VZjVKV0xKTUpleVJXd24rZEp1TEUrbVhUTVRvdHlLamZwSDFKdkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTAwOTIzCWZpbGU6QXByb3ZhXzIuMS42X3g2NC1zZXR1cC5leGUKd2I1eEZ5bGVQTlNVckdFdE9jN3lZZERRQllOK3lMelpaOGQwM2JHWkQ1OUtqRzlKaVNiZytLTGlNMHpXbFozT0x6Z3NQN0szaUQ1bkpxRjlhNjRmQWc9PQo=",
-      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.6/Aprova_2.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUprRGdGeGlvVStKTGpuOXlIZkNtMFdJa2dNbG0rQzU3UXY2dEZzTlZOL2JJZVdjdzFuV1Z1STArdHkyTGsxTmVoS1c4eUtPOUZuZ3NDMkowbnMya1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjY2MjEyCWZpbGU6QXByb3ZhXzIuMS43X3g2NC1zZXR1cC5leGUKaUxVVUlqN3NqbDZ0YksydHJIVWpoemFDd1NRaWh1eHovYU5Od0x5K09CWWFYc1JXdFZsTXNTQ1NMNEY2WXU3aGdDdThUQ0ptaDZGRUhJdmpWOXlUREE9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.7/Aprova_2.1.7_x64-setup.exe"
     }
   }
 }

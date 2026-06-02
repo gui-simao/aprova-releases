@@ -1,13 +1,13 @@
 {
   "version": "2.1.7",
-  "notes": "Nova versão 2.1.7 (Canal Latest) - Otimizações profundas de inicialização do app e suporte total a configurações de comissão, corretor e status customizáveis.",
+  "notes": "Nova versão 2.1.7 (Canal Latest) - Adiciona seção Arquivo consolidada por mês, agrupamento colapsável de propostas, formulário de edição fixado e correção dos cálculos de comissão.",
   "platforms": {
     "latest": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU9sWmQ4VTNkRktIYWljTkpuOHVoZGJrSkN1QXVzSVJwZkxwMVVOa3I0ZjRQTy94MXI5NHhmNXJoREFCTVhwWmJqbmFzOUg1N3FJZERVR1BxcURkU3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjY3NjAxCWZpbGU6QXByb3ZhXzIuMS43X3g2NC1zZXR1cC5leGUKTjdobkVyTXBvY0dHMDZKcy9qY0RqVnpzQjBsUmRyVHF2RXJJNndzb2xUeVZoT0ViRXlVSk45R3JBc0VmMFpTZGc0N2djd1ZKVHZLMVZHS0Q2MjRCRHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU5DMTQ5aFNHRDJpS0NxaHY4YnJTU2tYWURLNG9FUFNZSTQ0UjFDYys0RVdzSm55eGlaZ3Izc0JYeDczYjlZQk8vQXVvbDl6QmJkNEVwY2JoOUlMR3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDMwMDA0CWZpbGU6QXByb3ZhXzIuMS43X3g2NC1zZXR1cC5leGUKbEdNTVViRnNEbEtHVjEydnJRalJYMlhnazdlVmFlM3dPZ1VGb3ZRM3NjdTNBb3h3akxQejFMd3dqSTk3RVFIa3R1RDNrVW5UNVVTM055OVc5aWJXQkE9PQo=",
       "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.7/Aprova_2.1.7_x64-setup.exe"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU9sWmQ4VTNkRktIYWljTkpuOHVoZGJrSkN1QXVzSVJwZkxwMVVOa3I0ZjRQTy94MXI5NHhmNXJoREFCTVhwWmJqbmFzOUg1N3FJZERVR1BxcURkU3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjY3NjAxCWZpbGU6QXByb3ZhXzIuMS43X3g2NC1zZXR1cC5leGUKTjdobkVyTXBvY0dHMDZKcy9qY0RqVnpzQjBsUmRyVHF2RXJJNndzb2xUeVZoT0ViRXlVSk45R3JBc0VmMFpTZGc0N2djd1ZKVHZLMVZHS0Q2MjRCRHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU5DMTQ5aFNHRDJpS0NxaHY4YnJTU2tYWURLNG9FUFNZSTQ0UjFDYys0RVdzSm55eGlaZ3Izc0JYeDczYjlZQk8vQXVvbDl6QmJkNEVwY2JoOUlMR3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDMwMDA0CWZpbGU6QXByb3ZhXzIuMS43X3g2NC1zZXR1cC5leGUKbEdNTVViRnNEbEtHVjEydnJRalJYMlhnazdlVmFlM3dPZ1VGb3ZRM3NjdTNBb3h3akxQejFMd3dqSTk3RVFIa3R1RDNrVW5UNVVTM055OVc5aWJXQkE9PQo=",
       "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.7/Aprova_2.1.7_x64-setup.exe"
     }
   }

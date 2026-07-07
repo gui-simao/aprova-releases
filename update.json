@@ -1,14 +1,14 @@
 {
-  "version": "2.1.7",
-  "notes": "Nova versão 2.1.7 (Canal Latest) - Adiciona seção Arquivo consolidada por mês, agrupamento colapsável de propostas, formulário de edição fixado, correção dos cálculos de comissão, gráficos históricos sem cortes de layout e minigráficos (sparklines) de vendas.",
+  "version": "2.1.8",
+  "notes": "Nova versão 2.1.8 (Canal Latest) - Corrige bug na filtragem do Dashboard pós-virada de mês, mantendo propostas ativas de meses anteriores visíveis e ajustando o faturamento de propostas pagas pela data da venda.",
   "platforms": {
     "latest": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU1NM0VuOTIrRFVUY2xLS0NwUGRGbElKV0x6eS9aOTVZTGpudWtuNXhzTFNBbmp1cW1jaUJXaHdPR2VTU1h2ajU2ZGVzTVYvdnlDVlJOdzg0VFVWa1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDQzMjc0CWZpbGU6QXByb3ZhXzIuMS43X3g2NC1zZXR1cC5leGUKZmZGR3ZPOWlMSjF2cFc3cFNYT0h0UExnbTQraFg0RG1kdEhuR2txcmRKYm1RYjhmakYrVDZVbURuUExUbllCVHNBUkZqeE1xaUpwZW9nSERLTnBCQlE9PQo=",
-      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.7/Aprova_2.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU03bk5OQ0pDNkdZMGlmamRlSjlQOVFZbW55cUVUemcyYjE0TEpaOHVPUGhaZzdMRE52dGR6QXh4VXdGWDhvMmRHNWxSVmJhbmtoMDF0STREWHRoTHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDY0MTI5CWZpbGU6QXByb3ZhXzIuMS44X3g2NF9lbi1VUy5tc2kKaVp4a0hIejhta1lPQ0pPaUJ6NlpXbG1BTkdZek8xbzhRc2dWZklQNXBadU1jZkFHQms4MzZQQXY3OHVzUTRTL1NUU2prdlJYYmVvUEZDNDh4dzJZQ3c9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.8/Aprova_2.1.8_x64_en-US.msi"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU1NM0VuOTIrRFVUY2xLS0NwUGRGbElKV0x6eS9aOTVZTGpudWtuNXhzTFNBbmp1cW1jaUJXaHdPR2VTU1h2ajU2ZGVzTVYvdnlDVlJOdzg0VFVWa1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDQzMjc0CWZpbGU6QXByb3ZhXzIuMS43X3g2NC1zZXR1cC5leGUKZmZGR3ZPOWlMSjF2cFc3cFNYT0h0UExnbTQraFg0RG1kdEhuR2txcmRKYm1RYjhmakYrVDZVbURuUExUbllCVHNBUkZqeE1xaUpwZW9nSERLTnBCQlE9PQo=",
-      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.7/Aprova_2.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU03bk5OQ0pDNkdZMGlmamRlSjlQOVFZbW55cUVUemcyYjE0TEpaOHVPUGhaZzdMRE52dGR6QXh4VXdGWDhvMmRHNWxSVmJhbmtoMDF0STREWHRoTHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDY0MTI5CWZpbGU6QXByb3ZhXzIuMS44X3g2NF9lbi1VUy5tc2kKaVp4a0hIejhta1lPQ0pPaUJ6NlpXbG1BTkdZek8xbzhRc2dWZklQNXBadU1jZkFHQms4MzZQQXY3OHVzUTRTL1NUU2prdlJYYmVvUEZDNDh4dzJZQ3c9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.8/Aprova_2.1.8_x64_en-US.msi"
     }
   }
 }

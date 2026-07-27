@@ -1,13 +1,13 @@
 {
   "version": "2.1.8",
-  "notes": "Nova versão 2.1.8 (Canal Latest) - Corrige bug na filtragem do Dashboard pós-virada de mês, mantendo propostas ativas de meses anteriores visíveis e ajustando o faturamento de propostas pagas pela data da venda.",
+  "notes": "Nova versão 2.1.8 (Canal Latest) - Exibe a versão 2.1.8 na interface, melhora o fechamento do modal de novidades (tecla ESC, clique no fundo e botões com stopPropagation) e mantém a filtragem inteligente no Dashboard.",
   "platforms": {
     "latest": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU03bk5OQ0pDNkdZMGlmamRlSjlQOVFZbW55cUVUemcyYjE0TEpaOHVPUGhaZzdMRE52dGR6QXh4VXdGWDhvMmRHNWxSVmJhbmtoMDF0STREWHRoTHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDY0MTI5CWZpbGU6QXByb3ZhXzIuMS44X3g2NF9lbi1VUy5tc2kKaVp4a0hIejhta1lPQ0pPaUJ6NlpXbG1BTkdZek8xbzhRc2dWZklQNXBadU1jZkFHQms4MzZQQXY3OHVzUTRTL1NUU2prdlJYYmVvUEZDNDh4dzJZQ3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUNvWTc2Z3JId21IYWFrTnJVZ0JFV3k0WlRJRkJRWkYyQlM4ZWEwNG9CRVhldVNQSndQT1BCK2NaY04xdDlYdG95ekM3N3pqekVTTmhVR3NhSFFHR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTU4OTg4CWZpbGU6QXByb3ZhXzIuMS44X3g2NF9lbi1VUy5tc2kKemc2VXZuckVxWGZ4RE5wQXV4OVVUb3BldzQ4Z0RXc2hiMW14cnNpTk5Dby9mVkZrMFFXdTU0L3ViRFVON3kyTkgxeXpNVG0xWmJ6aXRST3dlRlpXQVE9PQo=",
       "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.8/Aprova_2.1.8_x64_en-US.msi"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVU03bk5OQ0pDNkdZMGlmamRlSjlQOVFZbW55cUVUemcyYjE0TEpaOHVPUGhaZzdMRE52dGR6QXh4VXdGWDhvMmRHNWxSVmJhbmtoMDF0STREWHRoTHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDY0MTI5CWZpbGU6QXByb3ZhXzIuMS44X3g2NF9lbi1VUy5tc2kKaVp4a0hIejhta1lPQ0pPaUJ6NlpXbG1BTkdZek8xbzhRc2dWZklQNXBadU1jZkFHQms4MzZQQXY3OHVzUTRTL1NUU2prdlJYYmVvUEZDNDh4dzJZQ3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUNvWTc2Z3JId21IYWFrTnJVZ0JFV3k0WlRJRkJRWkYyQlM4ZWEwNG9CRVhldVNQSndQT1BCK2NaY04xdDlYdG95ekM3N3pqekVTTmhVR3NhSFFHR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTU4OTg4CWZpbGU6QXByb3ZhXzIuMS44X3g2NF9lbi1VUy5tc2kKemc2VXZuckVxWGZ4RE5wQXV4OVVUb3BldzQ4Z0RXc2hiMW14cnNpTk5Dby9mVkZrMFFXdTU0L3ViRFVON3kyTkgxeXpNVG0xWmJ6aXRST3dlRlpXQVE9PQo=",
       "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.8/Aprova_2.1.8_x64_en-US.msi"
     }
   }

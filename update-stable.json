@@ -1,10 +1,19 @@
 {
-  "version": "2.1.6",
-  "notes": "Nova versão 2.1.6 - Canal Estável (Tema Claro por padrão, engrenagem de configurações, cabeçalho fixo no formulário e canais de update).",
+  "version": "2.2.0",
+  "notes": "Nova versão 2.2.0 Stable - Implementado sistema de Autenticação na nuvem (Supabase), Licenciamento via Deep Linking (aprova://auth) e portal do usuário.",
+  "pub_date": "2026-09-29T15:56:44.812Z",
   "platforms": {
+    "latest": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUpNdjVxeURrQklORDdUVlBGa2NxNVRuWlNVeEZkZDlZT0RXTGxFcUliSHVNbmVjbEo3MnZ6dU9maG9YbXFFdk5DNlFRWmppUW1Xa0JQWGJ6R0lpT1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjk3MzY5CWZpbGU6QXByb3ZhXzIuMi4wX3g2NF9lbi1VUy5tc2kKdzN1TTNadlJHSlhaaWdhTjlhMTQ2RzVWdFdENS9ZWFQyL042bHpZWlI5eURRU2JyUU9oSEFkL0FGMlpadU9UcjJvRXJHODN5bjFXZTgxelFpc2VrQnc9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.2.0/Aprova_2.2.0_x64_en-US.msi"
+    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUcveDB5Q0tOU0lHWnZYSk90ckkrTHlGK09vcHh3MUJjL0FlcVRtWVJhTnEzMW1VZjVKV0xKTUpleVJXd24rZEp1TEUrbVhUTVRvdHlLamZwSDFKdkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTAwOTIzCWZpbGU6QXByb3ZhXzIuMS42X3g2NC1zZXR1cC5leGUKd2I1eEZ5bGVQTlNVckdFdE9jN3lZZERRQllOK3lMelpaOGQwM2JHWkQ1OUtqRzlKaVNiZytLTGlNMHpXbFozT0x6Z3NQN0szaUQ1bkpxRjlhNjRmQWc9PQo=",
-      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.1.6/Aprova_2.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUpNdjVxeURrQklORDdUVlBGa2NxNVRuWlNVeEZkZDlZT0RXTGxFcUliSHVNbmVjbEo3MnZ6dU9maG9YbXFFdk5DNlFRWmppUW1Xa0JQWGJ6R0lpT1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjk3MzY5CWZpbGU6QXByb3ZhXzIuMi4wX3g2NF9lbi1VUy5tc2kKdzN1TTNadlJHSlhaaWdhTjlhMTQ2RzVWdFdENS9ZWFQyL042bHpZWlI5eURRU2JyUU9oSEFkL0FGMlpadU9UcjJvRXJHODN5bjFXZTgxelFpc2VrQnc9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.2.0/Aprova_2.2.0_x64_en-US.msi"
+    },
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZ0FGczl2Y0FCVUpNdjVxeURrQklORDdUVlBGa2NxNVRuWlNVeEZkZDlZT0RXTGxFcUliSHVNbmVjbEo3MnZ6dU9maG9YbXFFdk5DNlFRWmppUW1Xa0JQWGJ6R0lpT1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjk3MzY5CWZpbGU6QXByb3ZhXzIuMi4wX3g2NF9lbi1VUy5tc2kKdzN1TTNadlJHSlhaaWdhTjlhMTQ2RzVWdFdENS9ZWFQyL042bHpZWlI5eURRU2JyUU9oSEFkL0FGMlpadU9UcjJvRXJHODN5bjFXZTgxelFpc2VrQnc9PQo=",
+      "url": "https://github.com/gui-simao/aprova-releases/releases/download/v2.2.0/Aprova_2.2.0_x64_en-US.msi"
     }
   }
 }
